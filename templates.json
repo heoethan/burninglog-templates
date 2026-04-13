@@ -16,7 +16,7 @@
       "name": "Running",
       "thumb": "",
       "svg": "stamps/running_v1_stamp.svg",
-      "sha256": "526e298d924ddfd4b15693fa416c28e57cfbf81dba5437dbf56438996606d3af",
+      "sha256": "8d818057cce4007f068f0fdc154b5ffd82d41c814a447045c0098da8adc98a7d",
       "fields": ["distance", "duration", "pace", "calories"]
     }
   ]
