@@ -7,6 +7,7 @@
       "name": "Default",
       "thumb": "",
       "svg": "stamps/default_stamp.svg",
+      "sha256": "86981e600bdd226f31c71d3847657c42f8fdb0d98a897d06e695af082de80c2c",
       "fields": ["distance", "pace", "duration", "heartRate", "calories", "date", "type"]
     }
   ]
