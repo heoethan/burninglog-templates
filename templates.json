@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "updated": "2026-04-13",
+  "templates": [
+    {
+      "id": "default_v1",
+      "name": "Default",
+      "thumb": "",
+      "svg": "stamps/default_stamp.svg",
+      "fields": ["distance", "pace", "duration", "heartRate", "calories", "date", "type"]
+    }
+  ]
+}
