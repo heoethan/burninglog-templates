@@ -10,5 +10,14 @@
       "sha256": "86981e600bdd226f31c71d3847657c42f8fdb0d98a897d06e695af082de80c2c",
       "fields": ["distance", "pace", "duration", "heartRate", "calories", "date", "type"]
     }
+  ,
+    {
+      "id": "running_v1",
+      "name": "Running",
+      "thumb": "",
+      "svg": "stamps/running_v1_stamp.svg",
+      "sha256": "526e298d924ddfd4b15693fa416c28e57cfbf81dba5437dbf56438996606d3af",
+      "fields": ["distance", "duration", "pace", "calories"]
+    }
   ]
 }
